@@ -31,27 +31,35 @@ Las esferas siguen al cubo utilizando la función Vector3.MoveTowards().
 
 ## Ejercicio 8
 ### Ejercicio 8a
+Ninguno de los objetos es físico.
 ![gif ejercicio 8](/Gifs/Ejercicio8a.png)
 
 ### Ejercicio 8b
+La esfera tiene físicas, el cubo no, pero se puede mover.
 ![gif ejercicio 8](/Gifs/Ejercicio8b.gif)
 
 ### Ejercicio 8c
+Las esferas y el cubo tienen físicas.
 ![gif ejercicio 8](/Gifs/Ejercicio8c.gif)
 
 ### Ejercicio 8d
+La esfera superior tiene diez veces más la masa del cubo.
 ![gif ejercicio 8](/Gifs/Ejercicio8d.gif)
 
 ### Ejercicio 8e
+Las esferas tienen físicas y el cubo es de tipo IsTrigger estático.
 ![gif ejercicio 8](/Gifs/Ejercicio8e.gif)
 
 ### Ejercicio 8f
+Las esferas tienen físicas y el cubo es de tipo IsTrigger y cinemático.
 ![gif ejercicio 8](/Gifs/Ejercicio8f.gif)
 
 ### Ejercicio 8g
+Las esferas tienen físicas y el cubo es de tipo IsTrigger y mecánico.
 ![gif ejercicio 8](/Gifs/Ejercicio8g.gif)
 
 ### Ejercicio 8h
+La esfera superior es física, tiene diez veces la masa del cubo, el cubo tiene físicas, y se impide la rotación del mismo sobre el plano XZ.
 ![gif ejercicio 8](/Gifs/Ejercicio8h.gif)
 
 ## Ejercicio 9
