@@ -1,4 +1,4 @@
-#🎮 Ejercicios sobre Scripts
+# 🎮 Ejercicios sobre Scripts
 ## Ejercicio 1
 Se hace uso de la función de los vectores Vector3.MoveTowards(). 
 ![gif ejercicio 1](/Gifs/Ejercicio1.gif)
